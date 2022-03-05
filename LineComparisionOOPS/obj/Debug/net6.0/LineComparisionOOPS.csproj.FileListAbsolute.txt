@@ -1,0 +1,15 @@
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\LogicalProgram\LineComparisionOOPS\bin\Debug\net6.0\LineComparisionOOPS.exe
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\LogicalProgram\LineComparisionOOPS\bin\Debug\net6.0\LineComparisionOOPS.deps.json
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\LogicalProgram\LineComparisionOOPS\bin\Debug\net6.0\LineComparisionOOPS.runtimeconfig.json
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\LogicalProgram\LineComparisionOOPS\bin\Debug\net6.0\LineComparisionOOPS.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\LogicalProgram\LineComparisionOOPS\bin\Debug\net6.0\LineComparisionOOPS.pdb
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\LogicalProgram\LineComparisionOOPS\obj\Debug\net6.0\LineComparisionOOPS.csproj.AssemblyReference.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\LogicalProgram\LineComparisionOOPS\obj\Debug\net6.0\LineComparisionOOPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\LogicalProgram\LineComparisionOOPS\obj\Debug\net6.0\LineComparisionOOPS.AssemblyInfoInputs.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\LogicalProgram\LineComparisionOOPS\obj\Debug\net6.0\LineComparisionOOPS.AssemblyInfo.cs
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\LogicalProgram\LineComparisionOOPS\obj\Debug\net6.0\LineComparisionOOPS.csproj.CoreCompileInputs.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\LogicalProgram\LineComparisionOOPS\obj\Debug\net6.0\LineComparisionOOPS.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\LogicalProgram\LineComparisionOOPS\obj\Debug\net6.0\refint\LineComparisionOOPS.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\LogicalProgram\LineComparisionOOPS\obj\Debug\net6.0\LineComparisionOOPS.pdb
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\LogicalProgram\LineComparisionOOPS\obj\Debug\net6.0\LineComparisionOOPS.genruntimeconfig.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\LogicalProgram\LineComparisionOOPS\obj\Debug\net6.0\ref\LineComparisionOOPS.dll
